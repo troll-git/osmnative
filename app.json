@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ktotrujeapp",
+    "slug": "ktotrujeapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ktotrujeapp"
+}
